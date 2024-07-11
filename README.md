@@ -73,3 +73,15 @@ Access additional navigation options via the drawer menu.
 - Clone the repository.
 - Install dependencies with npm install or yarn install.
 - Run the app on a simulator or physical device using npx react-native run-android or npx react-native run-ios.
+
+# SCREENSHOTS
+
+![home](./Fakestore/images/home.jpg)
+![locations](./Fakestore/images/locations.jpg)
+![clothing](./Fakestore/images/clothing.jpg)
+![blog](./Fakestore/images/blog.jpg)
+![electronic](./Fakestore/images/electronic.jpg)
+![jewelry](./Fakestore/images/jewelry.jpg)
+![store](./Fakestore/images/store.jpg)
+![cart](./Fakestore/images/cart.jpg)
+![checkout](./Fakestore/images/checkout.jpg)
